@@ -1,0 +1,2 @@
+- name: Get hostname
+  ansible.builtin.shell: /usr/bin/hostname
